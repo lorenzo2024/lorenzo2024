@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Développeur</title>
-    <img src="![14821565_l](https://github.com/user-attachments/assets/e7ba8472-98ef-4445-8673-cffe22636445)"
-    <link rel="stylesheet" href="banniere.css">
-</head>
-<body>
+
  
 
  
