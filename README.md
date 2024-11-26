@@ -1,4 +1,4 @@
-<img src="![Capture d’écran 2024-11-26 144702](https://github.com/user-attachments/assets/a4b8ade1-7483-4608-b1fc-92215f1867c5)"
+<img src="![Capture d’écran 2024-11-26 144702](https://github.com/user-attachments/assets/a4b8ade1-7483-4608-b1fc-92215f1867c5)" alt="Développeur" class="banniere-img">
  
 
  
