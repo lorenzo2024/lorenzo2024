@@ -1,3 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Développeur</title>
+    <img src="![banniere-noire-texture-fibre-carbone-sombre-fond-acier-texture-metal-noir_156943-109](https://github.com/user-attachments/assets/0e799201-b303-4725-b98a-4f202d331146)"
+    <link rel="stylesheet" href="banniere.css">
+</head>
+<body>
+    <header class="banniere">
+        <div class="profil">
+            <h1>Ton Nom</h1>
+            <p>Développeur Web</p>
+            <div class="reseaux-sociaux">
+                <a href="https://linkedin.com/in/tonnom" target="_blank">LinkedIn</a>
+                <a href="https://github.com/tonnom" target="_blank">GitHub</a>
+                <a href="https://twitter.com/tonnom" target="_blank">Twitter</a>
+                <!-- Ajoute d'autres liens ici -->
+            </div>
+        </div>
+    </header>
+</body>
+</html>
+
+
+
 # 👋 Bonjour, Moi c'est Lorenzo ANDREU  
 
 Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Développeur.
