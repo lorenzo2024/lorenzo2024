@@ -1,6 +1,6 @@
 # 👋 Bonjour, Moi c'est Lorenzo ANDREU  
 
-Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Développeur.  
+Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Développeur.
 
 ---
 
