@@ -47,7 +47,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
 
 ## 🔗 Liens utiles  
 - 🌐 **Portfolio** : [Lien vers ton portfolio]  
-- 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
+- 💼 **LinkedIn** : [www.linkedin.com/in/lorenzo-andreu-75118733b]  
 - 📧 **Email** : [lorenzoandreu71@gmail.com](mailto:lorenzoandreu71@gmail.com)  
 
 ---
