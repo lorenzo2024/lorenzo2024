@@ -42,6 +42,13 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
    - Description rapide : Créer un morpion avec python.  
    - Principales technologies utilisées : Python. 
    - Lien vers le projet : https://github.com/lorenzo2024/Morpion.git
+  
+
+   
+3. **Horloge : Python**  
+   - Description rapide : Créer une horloge avec python.  
+   - Principales technologies utilisées : Python. 
+   - Lien vers le projet : https://github.com/Lucas-Ricart/Clock.git
 
 ---
 
