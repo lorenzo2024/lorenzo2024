@@ -23,8 +23,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
   - Anglais : Courant  
   --
 
-- 🎯 **Objectif** :  
-  - Moderniser les sites web pour les rendre plus intuitifs et dynamiques.  
+- 🎯 **Objectif** :    
   - Décrocher mon diplôme et évolué dans l'informatique.  
 
 ---
@@ -53,7 +52,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
 ---
 
 ## 🔗 Liens utiles  
-- 🌐 **Portfolio** : [Lien vers ton portfolio]  
+- 🌐 **Portfolio** : [Lien vers ton portfolio] 
 - 💼 **LinkedIn** : [www.linkedin.com/in/lorenzo-andreu-75118733b]  
 - 📧 **Email** : [lorenzoandreu71@gmail.com](mailto:lorenzoandreu71@gmail.com)  
 
