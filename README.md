@@ -17,7 +17,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
   - Brevet des Collèges  
   - BAC PROFESSIONNEL SN (Systèmes Numériques) - Lycée Pierre Mendes France, Vitrolles  
 - 🌱 **Actuellement en train d'apprendre** : La cybersécurité, le developpement web et le developpement de logiciels.  
-- 💡 **Centres d'intérêt** : la musique , les mangas , la nature , l'informatique.
+- 💡 **Centres d'intérêt** : la musique , les mangas , la nature , l'informatique et le sport.
 - 🌍 **Langues** :  
   - Français : Natif  
   - Anglais : Courant  
