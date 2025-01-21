@@ -24,7 +24,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
   --
 
 - 🎯 **Objectif** :    
-  - Décrocher mon diplôme et évolué dans l'informatique.  
+  - Décrocher mon diplôme et évolué dans le monde du développement.  
 
 ---
 
@@ -46,6 +46,13 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
    
 3. **Horloge : Python**  
    - Description rapide : Créer une horloge avec python.  
+   - Principales technologies utilisées : Python. 
+   - Lien vers le projet : https://github.com/Lucas-Ricart/Clock.git
+  
+     
+  
+4.  **Calculatrice : Python**  
+   - Description rapide : Créer une calculatrice avec python.  
    - Principales technologies utilisées : Python. 
    - Lien vers le projet : https://github.com/Lucas-Ricart/Clock.git
 
