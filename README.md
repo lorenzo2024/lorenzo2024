@@ -54,7 +54,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir Déve
 4.  **Calculatrice : Python**  
    - Description rapide : Créer une calculatrice avec python.  
    - Principales technologies utilisées : Python. 
-   - Lien vers le projet : https://github.com/Lucas-Ricart/Clock.git
+   - Lien vers le projet : https://github.com/Lucas-Ricart/my-calculator.git
 
 ---
 
